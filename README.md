@@ -3,7 +3,8 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+Data+Science;3D+Artist+%26+Technical+Artist;Python+%7C+PyTorch+%7C+Scikit--learn+%7C+YOLO;Autodesk+Maya+%7C+ZBrush+%7C+Houdini+%7C+Substance+Painter" alt="Typing SVG" />
+  <!--  width= is set to fit the longest line below; widen it further if you add longer text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Data+Science;3D+Artist+%26+Technical+Artist;Python+%7C+PyTorch+%7C+Scikit--learn+%7C+YOLO;Autodesk+Maya+%7C+ZBrush+%7C+Houdini+%7C+Substance+Painter" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -74,7 +75,7 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
   <img src="https://img.shields.io/badge/ZBrush-Intermediate-000000?style=flat" alt="ZBrush Skill Badge">
   <img src="https://img.shields.io/badge/Nuke-Intermediate-000000?style=flat&logo=foundry&logoColor=white" alt="Nuke Skill Badge">
   <img src="https://img.shields.io/badge/SideFX%20Houdini-Entry--Level-F7A800?style=flat" alt="Houdini Skill Badge">
-  <img src="https://img.shields.io/badge/Unreal%20Intermediate--Level-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Skill Badge">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-Intermediate-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Skill Badge">
   <img src="https://img.shields.io/badge/Marvelous%20Designer-Entry--Level-4B4B4B?style=flat" alt="Marvelous Designer Skill Badge">
   <img src="https://img.shields.io/badge/SpeedTree-Entry--Level-3E7C3E?style=flat" alt="SpeedTree Skill Badge">
 </p>
