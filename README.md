@@ -70,6 +70,11 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
 </p>
 
+#### Development & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git%2FGitHub-Advanced-181717?style=flat&logo=github&logoColor=white" alt="Git/GitHub Skill Badge">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge">
+</p>
 #### 3D, VFX & Technical Art
 <p>
   <img src="https://img.shields.io/badge/Autodesk%20Maya-Advanced-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Autodesk Maya Skill Badge">
@@ -83,12 +88,7 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
   <img src="https://img.shields.io/badge/SpeedTree-Entry--Level-3E7C3E?style=flat" alt="SpeedTree Skill Badge">
 </p>
 
-#### Development & Tools
-<p>
-  <img src="https://img.shields.io/badge/PySide%2FPyQt-Advanced-41CD52?style=flat&logo=qt&logoColor=white" alt="PySide/PyQt Skill Badge">
-  <img src="https://img.shields.io/badge/Git%2FGitHub-Advanced-181717?style=flat&logo=github&logoColor=white" alt="Git/GitHub Skill Badge">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge">
-</p>
+
 
 #### Adobe Creative Suite
 <p>
