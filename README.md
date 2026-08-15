@@ -31,7 +31,8 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
 ## 🌱 Currently Learning
 
 - Deployment and optimization of real-time computer vision models.
-- Advanced Houdini procedural workflows and PySide GUI integration for Maya/Houdini tools.
+- NLP & LLM & RAG System
+- Generative AI
 
 ## 📊 Featured ML / Data Science Projects
 
