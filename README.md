@@ -1,52 +1,62 @@
 ## Hi there, I'm Ahmed Mohamed Galal 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=Machine+Learning+%26+Data+Science;3D+Generalist+%26+Computer+Vision;Building+Intelligent+AI+Pipelines" alt="Typing SVG" />
+  <!--  Customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Machine+Learning+%26+Data+Science) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+Data+Science;Turning+Data+into+Predictive+Models;Technical+Art+%26+Pipeline+Tools+on+the+Side;Building+Things+That+Learn" alt="Typing SVG" />
 </div>
 
+<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://kaggle.com/ahmedmohamedgalal"><img src="https://img.shields.io/badge/Kaggle-Compete-20BEFF?style=for-the-badge&logo=kaggle"></a>
-  <a href="https://huggingface.co/ahmedmohamedgalal"><img src="https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-  <a href="mailto:ahmed.mohamed.galal.2026@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I am a Machine Learning & Data Science Specialist and 3D Generalist currently pursuing a 9-month professional diploma at the Information Technology Institute (ITI).
+## 🚀 About Me
 
-My work focuses on building robust machine learning pipelines, computer vision models, and merging AI solutions with digital 3D workflows.
+I'm a data scientist / ML practitioner who loves turning messy datasets into models and systems that actually get used. My focus is on building predictive models, running rigorous experiments, and shipping analysis that drives real decisions.
 
-### 🏆 [Check Out My Portfolio Website](https://ahmed-galal.lovable.app)
+I also have a technical art streak — I build Python tooling and plugins (Maya included) that automate repetitive pipeline work, which shapes how I think about writing clean, reusable, production-grade code even in my ML projects.
 
-## 🔭 What I'm Currently Working On 
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
 
-- **BTC Price Prediction:** Real-time Bitcoin price forecasting pipeline utilizing APIs and regression techniques.
-- **Computer Vision Pipelines:** Deep learning frameworks using YOLO and PyTorch for custom object detection tasks.
-- **3D Asset Creation & Pipelines:** Developing automated workflows and 3D content at ITI.
+## 🔭 What I'm Currently Working On
+
+- **Project A:** [e.g., Building a predictive model for customer churn using scikit-learn.]
+- **Project B:** [e.g., Fine-tuning an NLP model for text classification.]
+- **Tooling Side Project:** [e.g., A small Python/Maya plugin to speed up a data-prep or pipeline task.]
+
+## 🌱 Currently Learning
+
+- [e.g., Deep learning with PyTorch / TensorFlow.]
+- [e.g., MLOps and model deployment at scale.]
 
 ## 🛠️ Technical Skillset
 
-#### Machine Learning & Deep Learning
+<!-- This section uses Shields.io badges. Customize or add your own! -->
+
+#### Machine Learning & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/YOLO-00FFFFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Scikit--learn-Experienced-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
+  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Skill Badge">
+  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Skill Badge">
+  <img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch Skill Badge">
 </p>
 
-#### Computer Vision & Data Science
+#### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Experienced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Matplotlib-Experienced-11557C?style=flat" alt="Matplotlib Skill Badge">
 </p>
 
-#### 3D & Digital Content Tools
+#### Technical Art & Tooling
 <p>
-  <img src="https://img.shields.io/badge/Autodesk%20Maya-06B6D4?style=flat&logo=autodeks&logoColor=white" alt="Maya">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" alt="Blender">
-  <img src="https://img.shields.io/badge/ZBrush-222222?style=flat&logo=zbrush&logoColor=white" alt="ZBrush">
+  <img src="https://img.shields.io/badge/Maya%20Python-Tooling-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Maya Python Skill Badge">
+  <img src="https://img.shields.io/badge/PySide%2FQt-Plugin%20UI-41CD52?style=flat&logo=qt&logoColor=white" alt="PySide/Qt Skill Badge">
+  <img src="https://img.shields.io/badge/Pipeline%20Automation-Experienced-6C63FF?style=flat" alt="Pipeline Automation Skill Badge">
 </p>
