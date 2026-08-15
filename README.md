@@ -3,42 +3,34 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=3D+Generalist+%7C+AI+Engineering+Student;Merging+3D+Animation+%26+Artificial+Intelligence;Python+%7C+PyTorch+%7C+YOLO+%7C+3D+Pipeline+Tools;Autodesk+Maya+%7C+ZBrush+%7C+Houdini+%7C+Substance+Painter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+Data+Science;3D+Artist+%26+Technical+Artist;Python+%7C+PyTorch+%7C+Scikit--learn+%7C+YOLO;Autodesk+Maya+%7C+ZBrush+%7C+Houdini+%7C+Substance+Painter" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://ahmed-galal.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://artstation.com/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"></a>
   <a href="https://kaggle.com/ahmedmohamedgalal"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://huggingface.co/ahmedmohamedgalal"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+  <a href="https://artstation.com/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"></a>
   <a href="mailto:ahmed.mohamed.galal.2026@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me
 
-I'm a 3D Generalist and AI Engineering Student passionate about bridging the gap between digital content creation (3D modeling, animation, VFX) and artificial intelligence. I build custom Python/PySide pipelines and tools for 3D software, as well as machine learning and computer vision applications (PyTorch, TensorFlow, YOLO, Scikit-learn). Currently on the 3D Generalist track at the Information Technology Institute (ITI), Smart Village.
+I'm a Data Scientist and Machine Learning practitioner with a strong foundation in data analysis, statistical modeling, and predictive modeling using Python, SQL, and Scikit-learn. I'm also a 3D Artist and Technical Artist, building custom Python/PySide pipelines and tools for Autodesk Maya alongside hard-surface modeling and texturing work. Currently on the 3D Generalist track at the Information Technology Institute (ITI), Smart Village.
 
 ### [🏆 Check Out My Portfolio](https://ahmed-galal.lovable.app)
 
 ## 🔭 What I'm Currently Working On
 
-- **Ink Genesis:** A 3D animation and visual effects advertisement project blending digital pen product design with high-end CGI.
 - **Blood Cell Detection & Classification Pipeline:** Production-ready computer vision pipeline using YOLOv8 and native PyTorch.
 - **Bitcoin Price Prediction Dashboard:** Interactive ML dashboard and web app built with Streamlit, PyTorch/Scikit-learn (99% accuracy using linear regression + live API data).
+- **Ink Genesis:** A 3D visual effects advertisement project blending digital pen product design with high-end CGI.
 
 ## 🌱 Currently Learning
 
-- Advanced Houdini procedural workflows and PySide GUI integration for Maya/Houdini tools.
 - Deployment and optimization of real-time computer vision models.
-
-## 🎬 Featured 3D / VFX Work
-
-- L505 Steering Wheel — hard-surface modeling & texturing (Maya, Substance Painter)
-- Dodge SRT 2017 — vehicle modeling & texturing (Maya, Substance Painter)
-- G36C Assault Rifle — hard-surface asset (Maya, Substance Painter)
-- Robot Arm — mechanical modeling (Maya, Substance Painter)
-- UVX Plugin & Sketchfab API integration for Autodesk Maya
+- Advanced Houdini procedural workflows and PySide GUI integration for Maya/Houdini tools.
 
 ## 📊 Featured ML / Data Science Projects
 
@@ -49,22 +41,17 @@ I'm a 3D Generalist and AI Engineering Student passionate about bridging the gap
 - **Podcast Listening Time Prediction** — CatBoostRegressor, 85% accuracy
 - **Fake or Real: The Impostor Hunt in Texts** — Logistic Regression (NLP), 94% accuracy
 
+## 🎬 Featured 3D / Technical Art Work
+
+- L505 Steering Wheel — hard-surface modeling & texturing (Maya, Substance Painter)
+- Dodge SRT 2017 — vehicle modeling & texturing (Maya, Substance Painter)
+- G36C Assault Rifle — hard-surface asset (Maya, Substance Painter)
+- Robot Arm — mechanical modeling (Maya, Substance Painter)
+- UVX Plugin & Sketchfab API integration for Autodesk Maya
+
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### 3D, VFX & Digital Content Creation
-<p>
-  <img src="https://img.shields.io/badge/Autodesk%20Maya-Advanced-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Autodesk Maya Skill Badge">
-  <img src="https://img.shields.io/badge/Marmoset%20Toolbag-Advanced-3C3C3C?style=flat" alt="Marmoset Toolbag Skill Badge">
-  <img src="https://img.shields.io/badge/Substance%203D%20Painter-Intermediate-CA1E4C?style=flat&logo=adobe&logoColor=white" alt="Substance Painter Skill Badge">
-  <img src="https://img.shields.io/badge/ZBrush-Intermediate-000000?style=flat" alt="ZBrush Skill Badge">
-  <img src="https://img.shields.io/badge/Nuke-Intermediate-000000?style=flat&logo=foundry&logoColor=white" alt="Nuke Skill Badge">
-  <img src="https://img.shields.io/badge/SideFX%20Houdini-Entry--Level-F7A800?style=flat" alt="Houdini Skill Badge">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-Entry--Level-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Skill Badge">
-  <img src="https://img.shields.io/badge/Marvelous%20Designer-Entry--Level-4B4B4B?style=flat" alt="Marvelous Designer Skill Badge">
-  <img src="https://img.shields.io/badge/SpeedTree-Entry--Level-3E7C3E?style=flat" alt="SpeedTree Skill Badge">
-</p>
 
 #### AI, ML & Computer Vision
 <p>
@@ -77,6 +64,19 @@ I'm a 3D Generalist and AI Engineering Student passionate about bridging the gap
   <img src="https://img.shields.io/badge/NLP-Intermediate-4B8BBE?style=flat" alt="NLP Skill Badge">
   <img src="https://img.shields.io/badge/Pandas%20%2F%20NumPy-Advanced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas/NumPy Skill Badge">
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+</p>
+
+#### 3D, VFX & Technical Art
+<p>
+  <img src="https://img.shields.io/badge/Autodesk%20Maya-Advanced-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Autodesk Maya Skill Badge">
+  <img src="https://img.shields.io/badge/Marmoset%20Toolbag-Advanced-3C3C3C?style=flat" alt="Marmoset Toolbag Skill Badge">
+  <img src="https://img.shields.io/badge/Substance%203D%20Painter-Intermediate-CA1E4C?style=flat&logo=adobe&logoColor=white" alt="Substance Painter Skill Badge">
+  <img src="https://img.shields.io/badge/ZBrush-Intermediate-000000?style=flat" alt="ZBrush Skill Badge">
+  <img src="https://img.shields.io/badge/Nuke-Intermediate-000000?style=flat&logo=foundry&logoColor=white" alt="Nuke Skill Badge">
+  <img src="https://img.shields.io/badge/SideFX%20Houdini-Entry--Level-F7A800?style=flat" alt="Houdini Skill Badge">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-Entry--Level-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Skill Badge">
+  <img src="https://img.shields.io/badge/Marvelous%20Designer-Entry--Level-4B4B4B?style=flat" alt="Marvelous Designer Skill Badge">
+  <img src="https://img.shields.io/badge/SpeedTree-Entry--Level-3E7C3E?style=flat" alt="SpeedTree Skill Badge">
 </p>
 
 #### Development & Tools
