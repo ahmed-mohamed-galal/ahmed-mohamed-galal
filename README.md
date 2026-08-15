@@ -13,7 +13,7 @@
   <a href="https://www.kaggle.com/ahmed12998"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://huggingface.co/ahmedmohamedgalal"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
   <a href="https://artstation.com/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"></a>
-  <a href="mailto:ahmed.mohamed.galal.2026@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:ahmed.mohamed.galal.2026@gmail.com"><img src="https://img.shields.io/badge/ahmed.mohamed.galal.2026@gmail.com-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me
@@ -31,7 +31,8 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
 ## 🌱 Currently Learning
 
 - Deployment and optimization of real-time computer vision models.
-- Advanced Houdini procedural workflows and PySide GUI integration for Maya/Houdini tools.
+- NLP & LLM & RAG System
+- Generative AI
 
 ## 📊 Featured ML / Data Science Projects
 
