@@ -1,107 +1,131 @@
-## Hi there, I'm Ahmed Mohamed Galal 👋
-
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <!--  width= is set to fit the longest line below; widen it further if you add longer text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Data+Science;3D+Artist+%26+Technical+Artist;Python+%7C+PyTorch+%7C+Scikit--learn+%7C+YOLO;Autodesk+Maya+%7C+ZBrush+%7C+Houdini+%7C+Substance+Painter" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9B5CF6&height=200&section=header&text=Ahmed%20Mohamed%20Galal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%C3%97%203D%20Technical%20Artist&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9B5CF6&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Data+Science;3D+Artist+%26+Technical+Artist;Python+%7C+PyTorch+%7C+Scikit--learn+%7C+YOLO;Autodesk+Maya+%7C+ZBrush+%7C+Houdini+%7C+Substance+Painter" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://ahmed-galal.lovable.app"><img src="https://img.shields.io/badge/Portfolio-9B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.kaggle.com/ahmed12998"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://huggingface.co/ahmedmohamedgalal"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+<a href="https://artstation.com/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"></a>
+<a href="mailto:ahmed.mohamed.galal.2026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://ahmed-galal.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.kaggle.com/ahmed12998"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://huggingface.co/ahmedmohamedgalal"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-  <a href="https://artstation.com/ahmed-mohamed-galal"><img src="https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"></a>
-</p>
+<br/>
 
-<p align="center">
-  📧 <code>ahmed.mohamed.galal.2026@gmail.com</code>
-</p>
+## 🧬 About Me
 
-## 🚀 About Me
+I sit at the intersection of two disciplines that don't usually share a desk: **data science / machine learning** and **3D technical art**. On one side — statistical modeling, computer vision, and predictive pipelines in Python. On the other — hard-surface modeling, texturing, and custom PySide/Python tooling built inside Autodesk Maya.
 
-I'm a Data Scientist and Machine Learning practitioner with a strong foundation in data analysis, statistical modeling, and predictive modeling using Python, SQL, and Scikit-learn. I'm also a 3D Artist and Technical Artist, building custom Python/PySide pipelines and tools for Autodesk Maya alongside hard-surface modeling and texturing work. Currently on the 3D Generalist track at the Information Technology Institute (ITI), Smart Village.
+Currently on the **3D Generalist track** at the Information Technology Institute (ITI), Smart Village.
 
+```python
+class AhmedGalal:
+    def __init__(self):
+        self.role       = ["Data Scientist", "ML Engineer", "3D Technical Artist"]
+        self.ml_stack    = ["Python", "PyTorch", "Scikit-learn", "YOLO", "OpenCV"]
+        self.art_stack   = ["Maya", "ZBrush", "Houdini", "Substance Painter"]
+        self.currently_learning = ["Real-time CV deployment", "RAG systems", "Generative AI"]
 
-## 🔭 What I'm Currently Working On
+    def philosophy(self):
+        return "Build tools that make artists faster and models that make sense."
+```
 
-- **Blood Cell Detection & Classification Pipeline:** Production-ready computer vision pipeline using YOLOv8 and native PyTorch.
-- **Bitcoin Price Prediction Dashboard:** Interactive ML dashboard and web app built with Streamlit, PyTorch/Scikit-learn (99% accuracy using linear regression + live API data).
-- **Ink Genesis:** A 3D visual effects advertisement project blending digital pen product design with high-end CGI.
+<br/>
 
-## 🌱 Currently Learning
+## 🔭 Currently Building
 
-- Deployment and optimization of real-time computer vision models.
-- NLP & LLM & RAG System
-- Generative AI
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🩸 Blood Cell Detection
+Production-ready computer vision pipeline for blood cell detection & classification using YOLOv8 and native PyTorch.
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 BTC Price Dashboard
+Interactive ML dashboard built with Streamlit — PyTorch/Scikit-learn regression pipeline pulling live market data, 99% accuracy.
+
+</td>
+<td width="33%" valign="top">
+
+### 🖋️ Ink Genesis
+A 3D visual-effects advertisement project blending digital pen product design with high-end CGI.
+
+</td>
+</tr>
+</table>
+
+**Currently learning:** real-time CV model deployment & optimization · NLP, LLMs & RAG systems · Generative AI
+
+<br/>
 
 ## 📊 Featured ML / Data Science Projects
 
-- **BTC Prediction** — Linear Regression + live API data, 99% accuracy
-- **House Price Detection** — LGBMRegressor on Kaggle data, 87% accuracy
-- **Breast Cancer Classification** — Logistic Regression, 95% accuracy
-- **Introvert vs. Extrovert Prediction** — Logistic Regression, 96% accuracy
-- **Podcast Listening Time Prediction** — CatBoostRegressor, 85% accuracy
-- **Fake or Real: The Impostor Hunt in Texts** — Logistic Regression (NLP), 94% accuracy
+| Project | Approach | Result |
+|---|---|---|
+| **BTC Price Prediction** | Linear Regression + live API data | 99% accuracy |
+| **Fake or Real: Impostor Hunt in Texts** | Logistic Regression (NLP) | 94% accuracy |
+| **Introvert vs. Extrovert Prediction** | Logistic Regression | 96% accuracy |
+| **Breast Cancer Classification** | Logistic Regression | 95% accuracy |
+| **House Price Detection** | LGBMRegressor (Kaggle data) | 87% accuracy |
+| **Podcast Listening Time Prediction** | CatBoostRegressor | 85% accuracy |
+
+<br/>
 
 ## 🎬 Featured 3D / Technical Art Work
 
-- L505 Steering Wheel — hard-surface modeling & texturing (Maya, Substance Painter)
-- Dodge SRT 2017 — vehicle modeling & texturing (Maya, Substance Painter)
-- G36C Assault Rifle — hard-surface asset (Maya, Substance Painter)
-- Robot Arm — mechanical modeling (Maya, Substance Painter)
-- UVX Plugin & Sketchfab API integration for Autodesk Maya
+- 🚗 **Dodge SRT 2017** — full vehicle modeling & texturing (Maya, Substance Painter)
+- 🎮 **L505 Steering Wheel** — hard-surface modeling & texturing
+- 🔫 **G36C Assault Rifle** — hard-surface asset production
+- 🦾 **Robot Arm** — mechanical modeling
+- 🧩 **UVX Plugin** — custom PySide plugin + Sketchfab API integration for Autodesk Maya
 
-## 🛠️ Technical Skillset
+<br/>
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+## 🛠️ Tech Stack
 
-#### AI, ML & Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch Skill Badge">
-  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Skill Badge">
-  <img src="https://img.shields.io/badge/Scikit--learn-Advanced-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn Skill Badge">
-  <img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV Skill Badge">
-  <img src="https://img.shields.io/badge/YOLO%20(Ultralytics)-Intermediate-111F68?style=flat" alt="YOLO Skill Badge">
-  <img src="https://img.shields.io/badge/NLP-Intermediate-4B8BBE?style=flat" alt="NLP Skill Badge">
-  <img src="https://img.shields.io/badge/Pandas%20%2F%20NumPy-Advanced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas/NumPy Skill Badge">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-</p>
+**AI, ML & Computer Vision**
 
-#### Development & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git%2FGitHub-Advanced-181717?style=flat&logo=github&logoColor=white" alt="Git/GitHub Skill Badge">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge">
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/><img src="https://img.shields.io/badge/YOLO_(Ultralytics)-111F68?style=flat-square" /> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" /> <img src="https://img.shields.io/badge/Pandas_%2F_NumPy-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-#### 3D & Technical Art
-<p>
-  <img src="https://img.shields.io/badge/Autodesk%20Maya-Advanced-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Autodesk Maya Skill Badge">
-  <img src="https://img.shields.io/badge/Marmoset%20Toolbag-Advanced-3C3C3C?style=flat" alt="Marmoset Toolbag Skill Badge">
-  <img src="https://img.shields.io/badge/Substance%203D%20Painter-Intermediate-CA1E4C?style=flat&logo=adobe&logoColor=white" alt="Substance Painter Skill Badge">
-  <img src="https://img.shields.io/badge/ZBrush-Intermediate-000000?style=flat" alt="ZBrush Skill Badge">
-  <img src="https://img.shields.io/badge/Nuke-Intermediate-000000?style=flat&logo=foundry&logoColor=white" alt="Nuke Skill Badge">
-  <img src="https://img.shields.io/badge/SideFX%20Houdini-Entry--Level-F7A800?style=flat" alt="Houdini Skill Badge">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-Intermediate-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Skill Badge">
-  <img src="https://img.shields.io/badge/Marvelous%20Designer-Entry--Level-4B4B4B?style=flat" alt="Marvelous Designer Skill Badge">
-  <img src="https://img.shields.io/badge/SpeedTree-Entry--Level-3E7C3E?style=flat" alt="SpeedTree Skill Badge">
-</p>
+**3D & Technical Art**
 
+<img src="https://img.shields.io/badge/Autodesk_Maya-0696D7?style=flat-square&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/ZBrush-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Houdini-F7A800?style=flat-square" /> <img src="https://img.shields.io/badge/Substance_Painter-CA1E4C?style=flat-square&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Marmoset_Toolbag-3C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Nuke-000000?style=flat-square&logo=foundry&logoColor=white" /> <img src="https://img.shields.io/badge/Marvelous_Designer-4B4B4B?style=flat-square" /> <img src="https://img.shields.io/badge/SpeedTree-3E7C3E?style=flat-square" />
 
+**Creative Suite & Dev Tools**
 
-#### Adobe Creative Suite
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop Skill Badge">
-  <img src="https://img.shields.io/badge/Premiere%20Pro-Advanced-9999FF?style=flat&logo=adobepremierepro&logoColor=white" alt="Premiere Pro Skill Badge">
-  <img src="https://img.shields.io/badge/After%20Effects-Entry--Level-9999FF?style=flat&logo=adobeaftereffects&logoColor=white" alt="After Effects Skill Badge">
-  <img src="https://img.shields.io/badge/Audition-Entry--Level-9999FF?style=flat&logo=adobeauditon&logoColor=white" alt="Adobe Audition Skill Badge">
-</p>
+<img src="https://skillicons.dev/icons?i=photoshop,premiere,git,github,jupyter&theme=dark" />
+
+<br/><br/>
 
 ## 🎓 Certifications
 
-- Data Science — Epsilon AI
-- IBM Machine Learning with Python
-- Deep Learning with PyTorch
-- Generative AI: Core Architectures for Natural Language Processing
+- 📜 Data Science — Epsilon AI
+- 📜 IBM Machine Learning with Python
+- 📜 Deep Learning with PyTorch
+- 📜 Generative AI: Core Architectures for Natural Language Processing
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgalal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgalal&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/><br/>
+
+📧 <code>ahmed.mohamed.galal.2026@gmail.com</code>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5CF6,100:2E9EF7&height=100&section=footer" width="100%"/>
+
+</div>
