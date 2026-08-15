@@ -74,7 +74,7 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
   <img src="https://img.shields.io/badge/ZBrush-Intermediate-000000?style=flat" alt="ZBrush Skill Badge">
   <img src="https://img.shields.io/badge/Nuke-Intermediate-000000?style=flat&logo=foundry&logoColor=white" alt="Nuke Skill Badge">
   <img src="https://img.shields.io/badge/SideFX%20Houdini-Entry--Level-F7A800?style=flat" alt="Houdini Skill Badge">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-Entry--Level-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Skill Badge">
+  <img src="https://img.shields.io/badge/Unreal%20Intermediate--Level-313131?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine Skill Badge">
   <img src="https://img.shields.io/badge/Marvelous%20Designer-Entry--Level-4B4B4B?style=flat" alt="Marvelous Designer Skill Badge">
   <img src="https://img.shields.io/badge/SpeedTree-Entry--Level-3E7C3E?style=flat" alt="SpeedTree Skill Badge">
 </p>
