@@ -16,6 +16,10 @@
   <a href="mailto:ahmed.mohamed.galal.2026@gmail.com"><img src="https://img.shields.io/badge/ahmed.mohamed.galal.2026@gmail.com-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+<p align="center">
+  📧 <code>ahmed.mohamed.galal.2026@gmail.com</code> <sub>(click the badge above to email me, or select this text to copy)</sub>
+</p>
+
 ## 🚀 About Me
 
 I'm a Data Scientist and Machine Learning practitioner with a strong foundation in data analysis, statistical modeling, and predictive modeling using Python, SQL, and Scikit-learn. I'm also a 3D Artist and Technical Artist, building custom Python/PySide pipelines and tools for Autodesk Maya alongside hard-surface modeling and texturing work. Currently on the 3D Generalist track at the Information Technology Institute (ITI), Smart Village.
