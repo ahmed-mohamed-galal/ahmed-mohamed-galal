@@ -84,8 +84,6 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
   <img src="https://img.shields.io/badge/PySide%2FPyQt-Advanced-41CD52?style=flat&logo=qt&logoColor=white" alt="PySide/PyQt Skill Badge">
   <img src="https://img.shields.io/badge/Git%2FGitHub-Advanced-181717?style=flat&logo=github&logoColor=white" alt="Git/GitHub Skill Badge">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge">
-  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Skill Badge">
-  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Skill Badge">
 </p>
 
 #### Adobe Creative Suite
