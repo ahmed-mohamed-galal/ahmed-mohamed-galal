@@ -76,7 +76,7 @@ I'm a Data Scientist and Machine Learning practitioner with a strong foundation 
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-Advanced-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge">
 </p>
 
-#### 3D, VFX & Technical Art
+#### 3D & Technical Art
 <p>
   <img src="https://img.shields.io/badge/Autodesk%20Maya-Advanced-0696D7?style=flat&logo=autodesk&logoColor=white" alt="Autodesk Maya Skill Badge">
   <img src="https://img.shields.io/badge/Marmoset%20Toolbag-Advanced-3C3C3C?style=flat" alt="Marmoset Toolbag Skill Badge">
